@@ -7,10 +7,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jp-Almeida0913&show_icons=true&theme=radical" alt="GitHub stats" width="60%">
-</div>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/joão-pedro-almeida-582105301/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
