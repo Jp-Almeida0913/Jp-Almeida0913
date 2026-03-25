@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Olá, me chamo João Pedro Almeida Moreira</h1>
+<h1 align="center">Olá, me chamo João Pedro Almeida Moreira</h1>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" />
@@ -17,7 +17,7 @@
 </a>
 </p>
 
-<h2 align="center">📕 Sobre</h2>
+<h2 align="center">Sobre</h2>
 
 <p align="left">
 Técnico em Desenvolvimento de Sistemas e atualmente estudante de Análise e Desenvolvimento de Sistemas. 
