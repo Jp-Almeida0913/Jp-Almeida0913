@@ -21,5 +21,5 @@
 
 <p align="left">
 Técnico em Desenvolvimento de Sistemas e atualmente estudante de Análise e Desenvolvimento de Sistemas. 
-Tenho focado em projetos pessoais para aprimorar minhas habilidades em desenvolvimento Fullstack utilizando HTML, CSS, JavaScript e MySQL, buscando evoluir constantemente como desenvolvedor. 🚀
+Tenho focado em projetos pessoais para aprimorar minhas habilidades em desenvolvimento Fullstack utilizando HTML, CSS, JavaScript e MySQL, buscando evoluir constantemente como desenvolvedor.
 </p>
